@@ -1,0 +1,35 @@
+/*
+
+Language - PHP
+Server - WAMP
+Tools - Netbeans 6.9.1 and Aptana Studio 3.0
+Status - incomplete
+Home page =  jyoti.debiprasad.net
+Blog - http://jyotiranjanpattnaik.wordpress.com/category/extraction-of-keyword-from-a-web-page-url/
+
+Description -
+
+I named this  PHP project  "elgoog" i.e reverse "google" due to its functionality.
+Usually in Google search engine we provide a keyword or phrase and it gives us results having those keywords.
+But here we provide a URL and it will give us the keywords in that url page, in short "Extraction of keyword from a web page URl"
+
+PHp curl is used in this project. So curl should be enabled before working in this project
+
+Till now, what have been done?
+currently we are able to get keywords which are free from HTML tags, scripts, styles, unwanted characters like punctuations,
+ symbols, numbers, stop words and unwanted words.
+
+You can read more about this project and work in the blog mentioned above.
+
+TO DO List -
+
+1. We have to get keywords which are meaningful, grammatically wrong keywords should be removed.
+2. We have to filter only highly possible keywords among all the words getting now.
+3. We have to make it a web service.
+
+*/
+
+
+
+
+
